@@ -40,8 +40,6 @@ The data was prepared for training the FNN model by preprocessing the review tex
 
 The accuracy of the model on the test sets consistently achieved approximately 85%.
 
-![Model Structure](model_structure_diagram.png)
-
 ## Installation and Usage
 
 To use this project, follow these steps:
